@@ -1,6 +1,6 @@
 # Twitter Clone UI
 
-Projeto construído com ReactJS para treinar habilidades com a biblioteca, HTML e CSS. Foram aplicados práticas de responsividade para que usuários com diferentes dispositos e tamanhos de tela possam visualizar corretamente a aplicação e ter uma boa experiênica. 
+Projeto construído com ReactJS para treinar habilidades com a biblioteca, HTML e CSS. Foram aplicadas práticas de responsividade para que usuários com diferentes dispositivos e tamanhos de tela possam visualizar corretamente a aplicação e ter uma boa experiênica. 
 
 ## Novos aprendizados
 Uso da lib ``` react-sticky-box``` que expande a forma de funcionamento do ``` position: sticky``` trazando novas possibilidades de efeito com a rolagem da página.
@@ -18,7 +18,8 @@ Para rodar o script que executa a aplicação
 
 ## Telas
 
-
-<img src="./screens/main.png">
-<img src="./screens/tablet.png">
-<img src="./screens/cellphone.png">
+<p align="center">
+<img src="https://github.com/lucashec/twitter-ui-clone/blob/main/screens/main.png?raw=true">
+<img src="https://github.com/lucashec/twitter-ui-clone/blob/main/screens/tablet.png?raw=trueg">
+<img src="https://github.com/lucashec/twitter-ui-clone/blob/main/screens/cellphone.png?raw=true">
+</p>
